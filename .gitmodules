@@ -1,0 +1,12 @@
+[submodule "HW1"]
+	path = HW1
+	url = git@github.com:ming-hsien/NYCU-NetworkProgramming-HW1.git
+[submodule "HW2"]
+	path = HW2
+	url = git@github.com:ming-hsien/NYCU-NetworkProgramming-HW2.git
+[submodule "HW3"]
+	path = HW3
+	url = git@github.com:ming-hsien/NYCU-NetworkProgramming-HW3.git
+[submodule "HW4"]
+	path = HW4
+	url = git@github.com:ming-hsien/NYCU-NetworkProgramming-HW4.git
